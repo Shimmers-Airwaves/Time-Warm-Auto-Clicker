@@ -1,2 +1,1 @@
-# Time-Warm-Auto-Clicker
-Time-Warm-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
